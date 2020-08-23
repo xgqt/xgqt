@@ -1,3 +1,6 @@
+[![XGQT's github stats](https://github-readme-stats.vercel.app/api?username=xgqt&show_icons=true&theme=cobalt)](https://github.com/xgqt)
+
+
 # Languages
 
 C, Python, Shell, Racket, Elisp
