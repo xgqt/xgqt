@@ -17,4 +17,4 @@ C, Python, Shell, Racket, Elisp
 
 # Projects
 
-Mostly on my Gilab, this account is primarily for mirror + fork purposes
+Mostly on ![my Gitlab](https://gitlab.com/users/xgqt/projects), this account is primarily for mirror, ![fork](https://github.com/xgqt?tab=repositories&q=&type=fork) and contribution purposes
