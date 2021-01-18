@@ -5,7 +5,7 @@
 
 C, Elisp, Python, Racket, Shell
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xgqt&layout=compact&bg_color=60,943dc1,8482c6&icon_color=303030&text_color=f9f9f9&title_color=f9f9f9&hide=css,html,roff)](https://github.com/xgqt?tab=repositories)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xgqt&layout=compact&bg_color=60,943dc1,8482c6&icon_color=303030&text_color=f9f9f9&title_color=f9f9f9&hide=css,html,less,roff)](https://github.com/xgqt?tab=repositories)
 
 
 # Links
