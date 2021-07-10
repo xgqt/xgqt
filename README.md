@@ -2,8 +2,9 @@
 
 - Website:  https://xgqt.gitlab.io/
 - Blog:     https://xgqt.gitlab.io/blog/
-- Gitlab:   https://gitlab.com/xgqt
-- Github:   https://github.com/xgqt
+- GitLab:   https://gitlab.com/xgqt
+- GitHub:   https://github.com/xgqt
+- GH Gist:  https://gist.github.com/xgqt
 - Linkedin: https://www.linkedin.com/in/xgqt/
 
 
