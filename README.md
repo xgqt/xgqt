@@ -10,4 +10,4 @@
 
 # Projects
 
-Mostly on [my Gitlab](https://gitlab.com/users/xgqt/projects), this account is primarily for mirror, [fork](https://github.com/xgqt?tab=repositories&q=&type=fork) and contribution purposes
+Mostly on [my Gitlab](https://gitlab.com/users/xgqt/projects), this account is primarily for [contribution](https://github.com/xgqt?tab=repositories&q=&type=fork) purposes.
