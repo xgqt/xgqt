@@ -3,9 +3,9 @@ My personal projects are mostly on
 [contribution](https://github.com/xgqt?tab=repositories&q=&type=fork) purposes.
 
 
-- Website:  https://xgqt.gitlab.io/
-- Blog:     https://xgqt.gitlab.io/blog/
+- Website:  https://xgqt.gitlab.io
+- Blog:     https://xgqt.gitlab.io/blog
 - GitLab:   https://gitlab.com/xgqt
 - GitHub:   https://github.com/xgqt
 - GH Gist:  https://gist.github.com/xgqt
-- Linkedin: https://www.linkedin.com/in/xgqt/
+- Linkedin: https://www.linkedin.com/in/xgqt
