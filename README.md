@@ -4,5 +4,4 @@ My personal projects are mostly on
 
 - Blog:     https://xgqt.gitlab.io/blog
 - GitLab:   https://gitlab.com/xgqt
-- GitHub:   https://github.com/xgqt
 - Linkedin: https://www.linkedin.com/in/xgqt
